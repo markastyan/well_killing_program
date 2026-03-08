@@ -1,0 +1,7 @@
+inner_diameter: 0.104
+section_length: 960
+interval_diameter: 0.154
+outer_diameter: 0.114
+interval_length: 1000.0
+current_depth: 1000.0
+lowering_depth: 960.0

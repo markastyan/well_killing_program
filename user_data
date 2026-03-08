@@ -1,0 +1,15 @@
+manifold_standpipe_pressure_drilling: 2000000.0
+pump_flow_rate_drilling: 0.003
+casing_pressure_test: 20000000.0
+formation_loss_pressure: 16000000.0
+weak_formation_fracture_pressure: 19000000.0
+drilling_mud_density: 1000.0
+kill_fluid_viscosity: 0.01
+weak_formation_depth: 1000.0
+standpipe_pressure_after_shut_in: 2000000.0
+wellhead_pressure_after_shut_in: 3000000.0
+additional_standpipe_pressure_during_injection: 1000000.0
+productive_zone_depth: 1000.0
+fluid_influx_volume: 1.5
+lower_circulation_pressure: 1000000.0
+lower_consumption: 0.001
